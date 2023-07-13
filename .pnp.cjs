@@ -785,7 +785,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["json5", "npm:2.2.1"],\
             ["msgpackr", "npm:1.6.0"],\
             ["nullthrows", "npm:1.1.1"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -999,7 +999,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@parcel/diagnostic", "npm:2.6.2"],\
             ["@parcel/utils", "npm:2.6.2"],\
             ["nullthrows", "npm:1.1.1"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1097,7 +1097,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@parcel/utils", "npm:2.6.2"],\
             ["@parcel/workers", "virtual:aa1797faca4a934b86d07dfa52e0db4db288b85fed415e745782ef9bd4bd39771970f9017a79cb7ed092d23d2539cea12a1cec949dfa0bb86e0fda2290caa70e#npm:2.6.2"],\
             ["@types/parcel__core", null],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "packagePeers": [\
             "@types/parcel__core"\
@@ -1287,7 +1287,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["browserslist", "npm:4.20.3"],\
             ["json5", "npm:2.2.1"],\
             ["nullthrows", "npm:1.1.1"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1320,7 +1320,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["posthtml", "npm:0.16.6"],\
             ["posthtml-parser", "npm:0.10.2"],\
             ["posthtml-render", "npm:3.0.0"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1374,7 +1374,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["detect-libc", "npm:1.0.3"],\
             ["nullthrows", "npm:1.1.1"],\
             ["regenerator-runtime", "npm:0.13.9"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "packagePeers": [\
             "@parcel/core",\
@@ -1406,7 +1406,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["clone", "npm:2.1.2"],\
             ["nullthrows", "npm:1.1.1"],\
             ["postcss-value-parser", "npm:4.2.0"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1422,7 +1422,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["posthtml", "npm:0.16.6"],\
             ["posthtml-parser", "npm:0.10.2"],\
             ["posthtml-render", "npm:3.0.0"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1473,7 +1473,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["posthtml", "npm:0.16.6"],\
             ["posthtml-parser", "npm:0.10.2"],\
             ["posthtml-render", "npm:3.0.0"],\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -8069,10 +8069,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["semver", [\
-        ["npm:5.7.1", {\
-          "packageLocation": "./.yarn/cache/semver-npm-5.7.1-40bcea106b-57fd0acfd0.zip/node_modules/semver/",\
+        ["npm:5.7.2", {\
+          "packageLocation": "./.yarn/cache/semver-npm-5.7.2-938ee91eaa-fb4ab5e0dd.zip/node_modules/semver/",\
           "packageDependencies": [\
-            ["semver", "npm:5.7.1"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }],\
